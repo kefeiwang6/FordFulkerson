@@ -1,4 +1,4 @@
-Author: Kefei Wang
+
 - this code can datalog the max flow value and make changes due to the incremental changes
 - FordFulkerson.java is the main class
 - run with argument
